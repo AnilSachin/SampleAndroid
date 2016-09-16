@@ -10,9 +10,7 @@ import butterknife.BindArray;
 
 public class MainActivity extends AppCompatActivity {
     Button b1, b2;
-    @BindArray(R.array.test_strings)
-    String[] names;
-
+     String s1="Android Developer";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
