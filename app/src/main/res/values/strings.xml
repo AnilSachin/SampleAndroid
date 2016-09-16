@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleAndroid</string>
+    <string-array name="test_strings">
+    <item>VK</item>
+    <item>Facebook</item>
+    <item>Twitter</item>
+    <item>Instagram</item>
+    <item>Google plus</item>
+    <item>Google mail</item>
+    </string-array>
+</resources>
